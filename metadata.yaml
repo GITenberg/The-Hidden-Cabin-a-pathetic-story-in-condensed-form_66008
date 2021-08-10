@@ -1,11 +1,16 @@
 _repo: The-Hidden-Cabin-a-pathetic-story-in-condensed-form_66008
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66008-h/images/cover.jpg
 creator:
   author:
     agent_name: Edwards, David W.
     gutenberg_agent_id: '53590'
     url: http://www.gutenberg.org/2009/agents/53590
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66008#The-Hidden-Cabin-a-pathetic-story-in-condensed-form
 gutenberg_issued: '2021-08-08'
 gutenberg_type: Text
 identifiers:
